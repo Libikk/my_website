@@ -7,3 +7,10 @@ body {
 h2 {
   color: magenta;
 }
+
+.login-page {
+
+  color: blue;
+  font-weight: bold;
+  font-size: 25px;
+}
